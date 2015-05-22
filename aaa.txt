@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 HaCkeD bY MaRsqUaDcYs
+=======
+test
+hahaha
+111
+>>>>>>> origin/master
